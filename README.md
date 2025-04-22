@@ -1,4 +1,7 @@
 # 🧠 Diabetes Prediction Model using Neural Networks
+<img width="995" alt="image" src="https://github.com/user-attachments/assets/0a093587-f535-4150-8b98-238991c74335" />
+<img width="434" alt="image" src="https://github.com/user-attachments/assets/b3c826ec-ff33-4baf-a1b5-71686c6de9ba" />
+<img width="1283" alt="image" src="https://github.com/user-attachments/assets/37099b3d-e20a-41ce-b726-56f06257be29" />
 
 This project is a **machine learning-based diabetes prediction tool** built using a neural network. It allows users to input key health metrics and instantly receive a prediction of whether they are likely to have diabetes.
 
